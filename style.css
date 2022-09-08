@@ -1,0 +1,128 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.donation-wrapper {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.donate-now-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+img {
+    width: 100%;
+}
+
+.parent-container {
+    margin-bottom: 150px;
+}
+
+.donate-wrapper {
+    text-align: center;
+}
+
+.taka-button {
+    border: none;
+    padding: 50px;
+    font-weight: 700;
+}
+
+#color-200TK {
+    background-color: limegreen;
+}
+
+.thirty-percent-width {
+    width: 33.33%;
+    padding: 70px 20px;
+}
+
+.container {
+    display: flex;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+#food-family-color {
+    background-color: lightblue;
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    margin-left: 80px;
+    margin-right: 20px;
+}
+
+#family-shelter-color {
+    background-color: lightpink;
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    margin-right: 20px;
+}
+
+#child-education-color {
+    background-color: lightgoldenrodyellow;
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    margin-right: 80px;
+}
+
+.donate-plan-parent-container {
+    margin-bottom: 150px;
+}
+
+.Get-My-Updates {
+    text-align: center;
+}
+
+.wrapper-subscribe-button {
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    padding: 80px 60px;
+    margin: 10px 250px;
+}
+
+.subscribe-button {
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+.email-address {
+    border: 50px 15px;
+}
+
+.Get-My-Updates-parent-container {
+    margin-bottom: 150px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 50px 40px;
+}
+
+#humble {
+    font-family: initial;
+}
